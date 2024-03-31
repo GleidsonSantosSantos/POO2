@@ -31,7 +31,7 @@ public class Principal {
 		        pedido.adicionarItem(item1);
 		        pedido.adicionarItem(item2);
 
-		        System.out.println("Valor total do pedido: " + pedido.calcularValorTotal());
+		        System.out.println("Valor total do: " + pedido.calcularValorTotal());
 		    }
 		
 
